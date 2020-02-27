@@ -1,3 +1,4 @@
 def saludar():
 	print("Salu2")
+
 saludar()
