@@ -6,5 +6,5 @@ def saludar():
 saludar()
 
 def despedir():
-	print("Bye",nombre,"Recuerde Tomar mucha agua")
+	print("Bye",nombre)
 despedir()
