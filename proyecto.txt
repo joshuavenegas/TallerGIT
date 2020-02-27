@@ -1,8 +1,10 @@
+print("Digite su nombre")
+nombre=input()
 def saludar():
-	print("Salu2")
+	print("Salu2",nombre)
 
 saludar()
 
 def despedir():
-	print("Bye")
+	print("Bye",nombre)
 despedir()
