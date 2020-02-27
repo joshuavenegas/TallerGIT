@@ -2,3 +2,7 @@ def saludar():
 	print("Salu2")
 
 saludar()
+
+def despedir():
+	print("Bye")
+despedir()
